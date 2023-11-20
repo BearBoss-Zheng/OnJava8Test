@@ -16,6 +16,8 @@ public class NumberFormats {
         System.out.println("Octal: " + octalNumber);
         System.out.println("Decimal: " + decimalNumber);
         System.out.println("Hexadecimal: " + hexNumber);
+        System.out.println(int.class);
+        System.out.println("hot fix");
     }
 }
 
